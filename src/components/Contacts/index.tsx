@@ -97,7 +97,7 @@ export const Contacts = () => {
               </ContactCardImage>
               <ContactCardContent>
                 <Text type="heading4" color="grey4">
-                  Meu LinkedIn
+                  Meu Linkedin
                 </Text>
                 <Text color="grey2" type="body2">
                   Podemos criar interações mais constantes assim como um
